@@ -10,3 +10,21 @@ body{
 .row img{
     margin-bottom: 1rem;
 }
+.symbol{
+  padding: 2rem;
+  margin-left: 1rem;
+}
+.testimonials{
+    margin-top: 100px
+}
+.testimonial{
+    width:  120px;
+    height: 120px;
+    border-radius: 70px;
+    align-self: center;
+    margin-top: -100px
+}
+.card{
+    padding-top: 3rem;
+    margin-top: 100px
+}
