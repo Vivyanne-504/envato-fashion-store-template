@@ -28,3 +28,23 @@ body{
     padding-top: 3rem;
     margin-top: 100px
 }
+.page-footer{
+    background-color: #232323;
+    width: 100%;
+    color: #ffffff;
+    margin-top: 20px;;
+}
+.btn-outline-white{
+    background-color:#085AF9;
+    color:#ffffff
+}
+.footer-copyright{
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 1px;
+border-top: 1px solid #ffffff;
+border-top: 75%;
+}
